@@ -78,7 +78,7 @@ PySpark • Scikit-Learn • Pandas • NumPy • Matplotlib • Seaborn
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
-Splunk • Jira • Confluence • Power Automate
+Git • Splunk • Jira • Confluence • Power Automate
 
 ---
 
