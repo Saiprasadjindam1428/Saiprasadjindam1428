@@ -51,6 +51,8 @@ Data Analyst with professional experience in analytics, reporting, dashboard dev
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
+Python • SQL
+
 ## Analytics & BI
 
 <p>
@@ -59,7 +61,7 @@ Data Analyst with professional experience in analytics, reporting, dashboard dev
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-Power BI • DAX • Power Query • Advanced Excel • Tableau • SQL
+Power BI • DAX • Power Query • Advanced Excel • Tableau
 
 ## Data Engineering & ML
 
@@ -73,6 +75,7 @@ PySpark • Scikit-Learn • Pandas • NumPy • Matplotlib • Seaborn
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
 Splunk • Jira • Confluence • Power Automate
@@ -276,16 +279,6 @@ Worked on large-scale operational systems, reporting automation, performance mon
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Saiprasadjindam1428&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiprasadjindam1428&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Saiprasadjindam1428&theme=tokyonight&column=4"/>
 
 </div>
 
