@@ -6,7 +6,7 @@
 
 <br>
 
-![MSc](https://img.shields.io/badge/MSc-AI%20%26%20Data%20Science-7C3AED?style=for-the-badge)
+![MSc](https://img.shields.io/badge/MSc-AI%20%26%20Data%20Science-7C3AED?style=for-the-badge) <br>
 ![Location](https://img.shields.io/badge/London-United%20Kingdom-A855F7?style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/saiprasadjindam-data-analyst/">
