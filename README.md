@@ -198,7 +198,7 @@ Designed analytics solutions supporting business decision-making through dashboa
 
 ---
 
-## Software Engineer — Zensar Technologies
+## Data Engineer — Zensar Technologies
 
 **Sep 2021 – Aug 2023**
 
