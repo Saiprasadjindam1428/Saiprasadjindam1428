@@ -175,65 +175,6 @@ Interactive Power BI solution enabling dynamic regional performance comparison.
 
 ---
 
-# Experience
-
-## Data Analyst Intern — Fortray Global Services LTD
-
-**Nov 2025 – Present**
-
-Designed analytics solutions supporting business decision-making through dashboard development, data processing, reporting automation, and predictive analytics.
-
-### Scope of Work
-
-- Processed datasets exceeding 1 million records
-- Built 10+ dashboards using Power BI, Tableau, and Excel
-- Reduced reporting time by 40%
-- Improved operational efficiency by 20%
-- Achieved 99.9% data accuracy
-- Supported revenue growth through data-driven insights
-
-**Skills**
-
-`Python` `SQL` `Power BI` `Tableau` `Analytics` `Machine Learning`
-
----
-
-## Data Engineer — Zensar Technologies
-
-**Sep 2021 – Aug 2023**
-
-Worked on large-scale operational systems, reporting automation, performance monitoring, and data analysis initiatives.
-
-### Scope of Work
-
-- Reduced system downtime by 20%
-- Automated KPI reporting
-- Improved SQL performance by 25%
-- Enhanced website performance metrics
-- Built operational analytics solutions
-
-**Skills**
-
-`Splunk` `Python` `SQL` `Reporting` `Automation`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|------------|---------|
-| MSc Graduate | Artificial Intelligence & Data Science |
-| Microsoft Certified | Power BI Data Analyst Associate (PL-300) |
-| Analytics Specialist | Large-scale data processing and visualization |
-| Dashboard Expert | Power BI, Tableau, Excel Reporting |
-| ML Practitioner | Predictive analytics and model development |
-
-</div>
-
----
-
 # Certifications
 
 ## Microsoft
@@ -253,7 +194,7 @@ Worked on large-scale operational systems, reporting automation, performance mon
 
 ---
 
-# Coding Profiles
+# Profiles
 
 <div align="center">
 
